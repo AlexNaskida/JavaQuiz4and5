@@ -1,0 +1,2 @@
+botName=Chatty
+serverUrl=https://max.ge/q45/27394816/index.php
